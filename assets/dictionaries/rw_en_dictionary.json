@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "language_from": "rw",
+    "language_to": "en",
+    "version": "1.0"
+  },
+  "entries": [
+    {
+      "rw": "ni",
+      "en": ["He is", "She is", "It is"]
+    },
+    {
+      "rw": "umuzungu",
+      "en": ["white", "foreigner"]
+    }
+  ]
+}
